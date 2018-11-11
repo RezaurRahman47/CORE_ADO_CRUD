@@ -1,0 +1,11 @@
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\bin\Debug\netcoreapp2.0\CORE_ADO_CRUD.deps.json
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\bin\Debug\netcoreapp2.0\CORE_ADO_CRUD.runtimeconfig.json
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\bin\Debug\netcoreapp2.0\CORE_ADO_CRUD.runtimeconfig.dev.json
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\bin\Debug\netcoreapp2.0\CORE_ADO_CRUD.dll
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\bin\Debug\netcoreapp2.0\CORE_ADO_CRUD.pdb
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\obj\Debug\netcoreapp2.0\CORE_ADO_CRUD.csprojAssemblyReference.cache
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\obj\Debug\netcoreapp2.0\CORE_ADO_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\obj\Debug\netcoreapp2.0\CORE_ADO_CRUD.AssemblyInfoInputs.cache
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\obj\Debug\netcoreapp2.0\CORE_ADO_CRUD.AssemblyInfo.cs
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\obj\Debug\netcoreapp2.0\CORE_ADO_CRUD.dll
+C:\Users\Rezaur\Desktop\CORE_ADO_CRUD\CORE_ADO_CRUD\obj\Debug\netcoreapp2.0\CORE_ADO_CRUD.pdb
